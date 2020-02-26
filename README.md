@@ -14,5 +14,7 @@
 11. "Ace Stream" srautą atkurti kituose įrenginiuose : įrašykime jo ip adresą ir port ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/10.png)
 12. ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/11.jpg)
 13. ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/12.jpg)
-14. Youtube parseris - Dėkui Chiapai ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/13.jpg)
-15. Youtube Plugin [Github](https://github.com/jdf76/plugin.video.youtube) , API rakto sukūrimas [API Key Creation](https://github.com/jdf76/plugin.video.youtube/wiki/Personal-API-Keys) ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/14.jpg)
+14. Youtube parseris - Dėkui Chiapai 
+![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/13.jpg)
+15. Youtube Plugin [Github](https://github.com/jdf76/plugin.video.youtube) , API rakto sukūrimas [API Key Creation](https://github.com/jdf76/plugin.video.youtube/wiki/Personal-API-Keys) 
+![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/14.jpg)
