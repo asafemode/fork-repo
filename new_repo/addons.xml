@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.ForkGrotuvas" name="[COLOR FF00FF00]ForkGrotuvas[/COLOR]" version="0.3.0" provider-name="asafemode">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="forkrepository.lit" version="0.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>ForkGrotuvas</summary>
+    <description>
+cScVOD ir IPTVGrotuvo fork versija
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="forkrepository.lt" name="Lithuanian Kodi Addon" version="0.2.0" provider-name="asafemode">
+	<extension point="xbmc.addon.repository" name="Lithuanian Kodi Addon">
+		<info compressed="true">https://raw.github.com/asafemode/fork-repo/master/new_repo/addons.xml</info>
+		<checksum>https://raw.github.com/asafemode/fork-repo/master/new_repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/asafemode/fork-repo/master/new_repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Lithuanian Addon</summary>
+		<description>International media resources for XBMC, Kodi</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
