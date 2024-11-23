@@ -1,7 +1,8 @@
 # fork-repo
+Atnaujinome , veikia su Kodi v21 "Omega" . Dėkui Chiapai . 
 
 ## Instaliavimas
-Parsisiųskite [repozitorijos failą](https://github.com/asafemode/fork-repo/raw/master/repo/forkrepository.lt/forkrepository.lit-0.1.0.zip) ir išsaugokite jį kietąjame diske.
+Parsisiųskite [repozitorijos failą](https://github.com/asafemode/fork-repo/raw/master/new_repo/forkrepository.lt/forkrepository.lit-0.2.0.zip) ir išsaugokite jį kietąjame diske.
 ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/1.png)
 ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/2.png)
 ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/3.png)
