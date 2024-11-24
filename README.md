@@ -20,5 +20,5 @@ Patariu įsijungti Eksperto režimas .
 ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/12.jpg)
 Žiūrėti Youtube , yra  du nustatymai :<br/>
 5.1. Youtube parseris - Dėkui Chiapai(skripto autorius) ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/13.png)
-5.2. "Youtube Kodi Addon" , galite susikurti savo api raktą ir Youtube priedo nustatyme įrašyti : Youtube Plugin [Github](https://github.com/jdf76/plugin.video.youtube) , API rakto sukūrimas [API Key Creation](https://github.com/anxdpanic/plugin.video.youtube/wiki/Personal-API-Keys) , [How to Get a YouTube API Key](https://blog.hubspot.com/website/how-to-get-youtube-api-key) ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/14.png)
+5.2. "Youtube Kodi Addon" , galite susikurti savo api raktą ir Youtube priedo nustatyme įrašyti : Youtube Plugin [Github](https://github.com/jdf76/plugin.video.youtube) , API rakto sukūrimas [API Key Creation](https://github.com/anxdpanic/plugin.video.youtube/wiki/Personal-API-Keys) , [How to Get a YouTube API Key](https://balagur.blogspot.com/2020/02/youtube-xbmc-kodi.html) ![alt tag](https://raw.githubusercontent.com/asafemode/fork-repo/master/media/14.png)
 
