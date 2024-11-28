@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.ForkGrotuvas" name="[COLOR FF00FF00]ForkGrotuvas[/COLOR]" version="0.3.0" provider-name="asafemode">
+<addon id="plugin.video.ForkGrotuvas" name="[COLOR FF00FF00]ForkGrotuvas[/COLOR]" version="0.3.1" provider-name="asafemode">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="forkrepository.lit" version="0.2.0"/>
